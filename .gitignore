@@ -1,0 +1,12 @@
+/bin
+/lib
+/include
+/share
+
+*.pyc
+.DS_Store
+pyvenv.cfg
+
+.param.csv
+.param.pkl
+houses.csv
